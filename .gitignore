@@ -1,0 +1,5 @@
+.idea
+*.swp
+*.DS_Store
+.pytest_cache
+.coverage
